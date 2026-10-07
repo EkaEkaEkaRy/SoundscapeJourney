@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Audio mixer</string>
+    <string name="main_greetings">Привет! Что послушаем сегодня?</string>
+    <string name="botton_bar_home_icon">Главная</string>
+    <string name="botton_bar_mixer_icon">Миксер</string>
+    <string name="botton_bar_profile_icon">Профиль</string>
+    <string name="error_type">Ошибка: %s</string>
+    <string name="no_sounds_data">Нет звуков по вашему запросу</string>
+    <string name="my_remix_header">Мой Ремикс</string>
+    <string name="remove_from_mix">Удалить из микса</string>
+    <string name="save_mix_button">СОХРАНИТЬ МИКС</string>
+    <string name="delete_mix_button">УДАЛИТЬ МИКС</string>
+    <string name="save_mix">Сохранить микс</string>
+    <string name="enter_mix_name_form">Введите название</string>
+    <string name="ok_form">ОК</string>
+    <string name="cancel_form">Отмена</string>
+    <string name="profile_header">Профиль</string>
+    <string name="favorite_sounds">Избранные звуки</string>
+    <string name="my_remixes_header">Мои Ремиксы</string>
+    <plurals name="sounds_count">
+        <item quantity="one">%d звук</item>
+        <item quantity="few">%d звука</item>
+        <item quantity="many">%d звуков</item>
+        <item quantity="other">%d звуков</item>
+    </plurals>
+    <string name="settings">Настройки</string>
+    <string name="dark_theme">Тёмная тема</string>
+    <string name="dark_theme_description">Снижает нагрузку на глаза ночью</string>
+    <string name="language">Язык приложения</string>
+    <string name="language_description">Русский или English</string>
+    <string name="RU_code">RU</string>
+    <string name="EN_code">EN</string>
+    <string name="no_sounds_added">Нет звуков</string>
+    <string name="searching_sound_hint">Поиск звука...</string>
+    <string name="add_to_the_mix_button">В микс</string>
+    <string name="add_to_favorite_button">В избранное</string>
+    <string name="remove_mix">Удалить микс</string>
+
+</resources>
